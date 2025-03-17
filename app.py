@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, render_template
-import requests  # Pastikan library requests sudah terinstall
+import requests  
 
 app = Flask(__name__)
 
